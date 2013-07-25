@@ -13,7 +13,9 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background-color: #333;
+  color: #888;
+  text-shadow: 8px 8px 5px #000;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -22,12 +24,12 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
-h1 { margin-bottom: 1em; }
+h2 { margin-top: 1em; color: #bbb}
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a         { color: #aa0;}
+a:hover   { color: #dd0;}
+a:visited { color: #949;}
 
 table {
   font-size: inherit;
@@ -66,43 +68,65 @@ ul.posts span {
   width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em;
+
+  background: #333;
+
+  padding:0.5em 1em;
+
+
+}
+
+.header {
+  background-color: #333;
+  border-radius:10px;
+  text-shadow: 0 0 0 #000;
+  border-bottom:2px solid #444;
+  padding:3px 4px;
+
 }
 
 .site .header a {
   font-weight: bold;
+  border-radius:15px;
   text-decoration: none;
-}
+
+  padding:3px 15px;
+  text-shadow:1px 1px 5px #000000;
+ }
 
 .site .header h1.title {
   display: inline-block;
-  margin-bottom: 2em;
 }
 
 .site .header h1.title a {
-  color: #a00;
+  color: #cc5;
+  border: 0px;
 }
 
 .site .header h1.title a:hover {
-  color: #000;
+  color: #995;
+  background-color:#111;
 }
 
 .site .header a.extra {
-  color: #aaa;
+  color: #d55;
   margin-left: 1em;
 }
 
 .site .header a.extra:hover {
-  color: #000;
+  color: #a55;
+  background-color:#111;
 }
 
 .site .meta {
-  color: #aaa;
+  color: #999;
 }
 
 .site .footer {
   font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
+  color: #888;
+  border-top: 2px solid #444;
+  border-radius:10px;
   margin-top: 2em;
   overflow: hidden;
 }
@@ -110,10 +134,16 @@ ul.posts span {
 .site .footer .contact {
   float: left;
   margin-right: 3em;
+  margin-left: 2em;
 }
 
 .site .footer .contact a {
-  color: #8085C1;
+  color: #08A;
+}
+
+.site .footer .contact a:hover {
+  color: #09D;
+  text-shadow: 8px 8px 5px #012;
 }
 
 .site .footer .rss {
@@ -134,8 +164,9 @@ ul.posts span {
 
 /* standard */
 .post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
+  border-radius: 15px;
+  border: 1px solid #aaa;
+  background-color: #111;
   padding: 0 .4em;
 }
 
@@ -144,8 +175,9 @@ ul.posts span {
 }
 
 .post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
+  border-radius: 12px;
+  background-color: #111;
+  border: 5px solid #111;
   padding: 0 .2em;
 }
 
@@ -157,7 +189,7 @@ ul.posts span {
 .post pre.terminal {
   border: 1px solid #000;
   background-color: #333;
-  color: #FFF;
+  color: #AAA;
 }
 
 .post pre.terminal code {
