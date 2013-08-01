@@ -13,6 +13,7 @@ categories: Todo
        + 404.html page
        + add a facebook comments or javascript chat host
        + about.html
+       + pull jekyll example site
  - HiSLIP project
    * need a distributed bug tracker
  - UDP services
