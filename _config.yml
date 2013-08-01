@@ -1,3 +1,5 @@
 name: Apropos' Bag of Tricks
 markdown: redcarpet
+limit_posts: 100
+lsi: true
 pygments: true
