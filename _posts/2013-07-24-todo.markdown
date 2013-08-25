@@ -8,7 +8,9 @@ categories: Todo
  - Website
    * Add Project Tabs
    * Actually Write Content
-   * Transfer Over Resume (Write in Markup?)
+   * Article on setting up terminal IDE
+   * Android screen shot
+* Transfer Over Resume (Write in Markup?)
    * do site layout
        + 404.html page
        + add a facebook comments or javascript chat host
