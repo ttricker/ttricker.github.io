@@ -2,7 +2,11 @@
 layout: post
 title:  "Terminal IDE"
 date:  2013-09-26
-categories: [setup git ssh jekyll]
+categories: [setup git ssh]
+summary: | 
+    My experience setting up Terminal IDE for use with Github Projects.
+    I have Terminal IDE working although there are still some glitches.
+
 ---
 # Terminal IDE #
 

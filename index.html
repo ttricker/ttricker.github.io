@@ -5,9 +5,24 @@ title: Apropos' Bag of Tricks
 
 <div id="home">
   <h1>Postings</h1>
-  <ul class="posts">
+
+    <table width="100%" class="posts" >
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+        <tr>
+            <td class="date" ><i> {{ post.date | date_to_string }}</i> </td>
+            <td> <a href="{{ post.url }}"> {{ post.title }} </a> </td>
+        </tr>
+        <tr>
+            <td><span> Summary:</span> </td>
+            <td> </td>
+         </tr>
+        <tr>
+            <td> </td>
+            <td> {{ post.summary }} </td>
+         </tr>
+         <tr><td> &nbsp; </td></tr>
+      {% endfor %}
+    </table>
+
 </div>
+
