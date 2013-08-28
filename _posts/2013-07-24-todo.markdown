@@ -6,18 +6,19 @@ categories: Todo
 ---
 
 - Website
-   -- Add Project Tabs
-   -- Actually Write Content
-   -- Article on setting up terminal IDE
-   -- Android screen shot
+   - Add Project Tabs
+   - Actually Write Content
+   - Article on setting up terminal IDE
+   - Android screen shot
 - Transfer Over Resume (Write in Markup?)
-   -- do site layout
-       --- 404.html page
-       --- add a facebook comments or javascript chat host
-       --- about.html
-       --- pull jekyll example site
+   - do site layout
+       - 404.html page
+       - add a facebook comments or javascript chat host
+       - about.html
+       - pull jekyll example site
 - HiSLIP project
-  -- need a distributed bug tracker
+  - need a distributed bug tracker
 - UDP services
-  -- this just can't be done fast enough
+  - this just can't be done fast enough
 - Office open XML
+
