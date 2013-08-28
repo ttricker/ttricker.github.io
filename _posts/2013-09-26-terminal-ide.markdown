@@ -8,7 +8,6 @@ summary: |
     I have Terminal IDE working although there are still some glitches.
 
 ---
-# Terminal IDE #
 
 Many friends of mine root their Android devices to get them to act more like a GNU/Linux system. I've never been a big fan of this as it leaves most of the less technical novices or devices that are still locked out in the cold. Because of this, I use non priviledged software whenever I can. 
 

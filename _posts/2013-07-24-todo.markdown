@@ -10,12 +10,14 @@ categories: Todo
    - Actually Write Content
    - Article on setting up terminal IDE
    - Android screen shot
-- Transfer Over Resume (Write in Markup?)
-   - do site layout
-       - 404.html page
-       - add a facebook comments or javascript chat host
-       - about.html
-       - pull jekyll example site
+- Transfer Over Resume
+- about.html - still need information about me
+   - site layout
+       - add a facebook/G+ comments
+       - Projects Page
+- Build System write up
+- Unit Testing
+- IOC & Dep Injection
 - HiSLIP project
   - need a distributed bug tracker
 - UDP services
