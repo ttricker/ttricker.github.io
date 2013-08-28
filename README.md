@@ -1,5 +1,6 @@
-ttricker.github.io
-==================
+Apropos Tricks
+==============
 
-My Jekyll Blogish Website
+This is my github hosted site.
+Jekyll is being used for page generation.
 
