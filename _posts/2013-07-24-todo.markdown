@@ -17,7 +17,8 @@ categories: Todo
        - add a facebook/G+ comments
        - Projects Page
 - Build System write up
-- Dynamic Testing - mixing static and dynamic languages.
+- Visual studio solution infrastructure
+- Dynamic Testing - mixing static and dynamic languages
 - IOC & Dep Injection
 - HiSLIP project
   - need a distributed bug tracker
