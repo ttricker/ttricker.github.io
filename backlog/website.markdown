@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: backlog
 title:  "Backlogs"
 permalink: /
 categories: Todo
