@@ -7,21 +7,23 @@ categories: Todo
 ---
 
 - Website
-   - Add Project Tabs
+   - Add Project Tabs and pages
    - Actually Write Content
-   - Article on setting up terminal IDE
-   - Android screen shot
 - Transfer Over Resume
+
+  ## Content
+
 - about.html - still need information about me
    - site layout
        - add a facebook/G+ comments
        - Projects Page
 - Build System write up
-- Unit Testing
+- Visual studio solution infrastructure
+- Dynamic Testing - mixing static and dynamic languages
 - IOC & Dep Injection
 - HiSLIP project
   - need a distributed bug tracker
-- UDP services
-  - this just can't be done fast enough
-- Office open XML
+- UDP hard
+  - UDP persistent peer network
+- Document generation using office open XML
 
