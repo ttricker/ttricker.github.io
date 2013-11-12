@@ -4,31 +4,34 @@ title:  "Backlogs"
 permalink: /
 categories: Todo
 ---
+#Overview#
+I'm using this as a sprint backlog/todo area for developing this site and projects. 
+Eventually, as this page grows too large, I will split these up into multiple pages 
+and archive them. I was originally thinking of keeping these unpublished but seen 
+as how rare these are to see in the wild I thought I'd keep them up. Someone may find
+them interesting or useful.
 
-#Website Backlogs#
-#Planned On The Next iteration#
+##Website Backlogs##
+#Week 46 - 11 Nov 2013#
 
+- {done} add facebook comments
+- about.html - needs more information 
 
-#Master Backlog#
+#Week 47#
 
-- Website
-   - Actually Write Content
+- {nothing planned yet}
+
+##Master Backlog##
+
+- Article: Programing matlab mex functions (C++ and matlab)
+- Article: Finish build system write up
+- Article: QtQuick js Prototyping
 - Transfer Over Resume
-
-  ## Content
-
-- about.html - still need information about me
-   - site layout
-       - add a facebook/G+ comments
-       - Projects Page
-- Build System write up
-- Visual studio solution infrastructure
-- Dynamic Testing - mixing static and dynamic languages
-- IOC & Dep Injection
-- HiSLIP project
-  - need a distributed bug tracker
-- UDP hard
-  - UDP persistent peer network
-- Document generation using office open XML
-
+- Article: Build System write up
+- Article: Visual studio solution setup
+- Article: Dynamic Testing: mixing static and dynamic languages
+- Article: Document generation using office open XML
+- Project: HiSLIP project
+- Aquire:  need a distributed bug tracker
+- Project: UDP hard persistent peer network
 
