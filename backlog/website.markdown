@@ -1,13 +1,17 @@
 ---
-layout: post
-title:  "Web Pages Backlog"
-date:   2013-07-24 22:24:57
+layout: default
+title:  "Backlogs"
 permalink: /
 categories: Todo
 ---
 
+#Website Backlogs#
+#Planned On The Next iteration#
+
+
+#Master Backlog#
+
 - Website
-   - Add Project Tabs and pages
    - Actually Write Content
 - Transfer Over Resume
 
@@ -26,4 +30,5 @@ categories: Todo
 - UDP hard
   - UDP persistent peer network
 - Document generation using office open XML
+
 

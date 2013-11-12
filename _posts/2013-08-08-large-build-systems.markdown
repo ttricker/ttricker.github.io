@@ -3,6 +3,9 @@ layout: post
 title:  "Build System Design"
 date:  2013-08-08
 categories: [Coding Testing]
+summary: | 
+    What I expect build scripts to do and my build system design for 
+    getting projects off the ground.
 ---
 
  ## Introduction ##
