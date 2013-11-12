@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Todo List!"
+title:  "Web Pages Backlog"
 date:   2013-07-24 22:24:57
+permalink: /
 categories: Todo
 ---
 
